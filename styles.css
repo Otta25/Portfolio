@@ -277,10 +277,6 @@ footer p {
   transition: ease-in-out 0.3s;
 }
 
-#comics:hover{
-    background-image:url(assets/comics.gif) ;
-}
-
 
 #albion {
   grid-column: 2/2;
@@ -296,9 +292,6 @@ footer p {
   transition: ease-in-out 0.3s;
 }
 
-#albion:hover{
-    background-image: url(assets/albion.gif);
-}
 
 
 
@@ -314,10 +307,6 @@ footer p {
   color: white;
   font-size: 2rem;
   transition: ease-in-out 0.3s;
-}
-
-#lamennais:hover{
-    background-image: url(assets/lamennais.gif);
 }
 
 
@@ -336,9 +325,6 @@ footer p {
   transition: ease-in-out 0.3s;
 }
 
-#maldivas:hover{
-   background-image: url(assets/maldivas.gif);
-}
 
 
 #proyectar {
@@ -354,11 +340,6 @@ footer p {
   font-size: 2rem;
   transition: ease-in-out 0.3s;
 }
-
-#proyectar:hover{
-   background-image: url(assets/proyectarback.gif);
-}
-
 
 
 #animaciones {
