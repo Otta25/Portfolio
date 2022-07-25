@@ -123,7 +123,7 @@ section h2 {
 
 #tools {
   display: grid;
-  gap: 1rem;
+ gap: 1rem;
   width: 40vw;
   height: 40vh;
   grid-template-columns: 1fr 1fr 1fr;
@@ -259,7 +259,6 @@ footer p {
   height: 160vh;
   display: grid;
   margin: auto;
-  gap: 1rem;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
 }
@@ -357,6 +356,9 @@ footer p {
   transition: ease-in-out 0.3s;
 }
 
+#animaciones img {
+  transform: scale(.4);
+}
 
 
 
