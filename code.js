@@ -26,3 +26,17 @@ sr.reveal('#info_contacto',{
    distance:'-100px'
 })
   
+
+sr.reveal('#section_albion2',{
+   duration:1000,
+   origin:'bottom',
+   distance:'-100px'
+})
+  
+
+sr.reveal('#section_albion4',{
+   duration:1000,
+   origin:'bottom',
+   distance:'-100px'
+})
+  
